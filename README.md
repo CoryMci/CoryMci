@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Cory.
-I'm an accountant turned developer, with a Bachelor of Commerce, and a burning passion for the outdoors.
+I'm an accountant turned developer, with a Bachelor of Commerce, and a passion for the outdoors.
 
 ### Things I love
 - Learning new technologies, skills, and hobbies
